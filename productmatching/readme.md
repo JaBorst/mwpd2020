@@ -5,6 +5,6 @@ Task 1 - Product Matching
 
 See [requirements.md](requirements.md) on how to create the virtual environment to run the Jupyter notebook.
 
-The notebook [ProdSim_PyTorch.ipynb](ProdSim_PyTorch.ipynb) contains everything to reproduce the experiments and resultsfrom the paper. Our results are at the bottom of the notebook file.
+The notebook [ProdSim_PyTorch.ipynb](ProdSim_PyTorch.ipynb) contains everything to reproduce the experiments and results from the paper. Our results are at the bottom of the notebook file.
 
 Note: the `dbot-*` commands are from the [discord-notifier-bot](https://github.com/Querela/discord-notifier-bot). Please refer to the project readme on how to setup and use it. They can be ignored and were only used to notify on progress updates.
